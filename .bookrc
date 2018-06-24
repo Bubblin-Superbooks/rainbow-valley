@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Rainbow Valley",
-  "type": "text"
+  "type": "text",
+  "book_id": 572
 }
